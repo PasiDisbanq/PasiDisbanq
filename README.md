@@ -8,4 +8,4 @@
 🌎 Web:<br>
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Advanced-blue)
-![JS](https://img.shields.io/badge/JS-Advanced-blue)
+![JavaScript](https://img.shields.io/badge/JS-Intermediate-green)
