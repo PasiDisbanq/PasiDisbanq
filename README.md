@@ -1,4 +1,4 @@
-# Hi!
+# Gościu
 ✨ Programming:<br>
 ![C++](https://img.shields.io/badge/C++-Intermediate-green)
 ![Java](https://img.shields.io/badge/Java-Intermediate-green)
