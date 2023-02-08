@@ -2,7 +2,7 @@
 ✨ Programming:<br>
 ![C++](https://img.shields.io/badge/C++-Intermediate-green)
 ![Java](https://img.shields.io/badge/Java-Intermediate-green)
-![C#](https://img.shields.io/badge/CSharp-Intermediate-green)
+![C#](https://img.shields.io/badge/C#-Intermediate-green)
 ![Python](https://img.shields.io/badge/Python-Beginner-yellow)
 <br>
 🌎 Web:<br>
